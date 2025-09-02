@@ -1,25 +1,25 @@
 @font-face {
   font-family: 'Montserrat';
   font-weight: 700;
-  src: local('Montserrat Bold'), url(/assets/fonts/Montserrat/montserrat-extrabold.woff2), url();
+  src: local('Montserrat Bold'), url(assets/fonts/Montserrat/montserrat-extrabold.woff2), url();
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-weight: 300;
-  src: local('Open Sans Light'), url(/assets/fonts/openSans/OpenSans-Light.woff2), url(/assets/fonts/openSans/OpenSans-Light.ttf);
+  src: local('Open Sans Light'), url(assets/fonts/openSans/OpenSans-Light.woff2), url(/assets/fonts/openSans/OpenSans-Light.ttf);
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-weight: 400;
-  src: local('Open Sans regular'), url(/assets/fonts/openSans/OpenSans-Regular.woff2), url(/assets/fonts/openSans/OpenSans-Regular.ttf);
+  src: local('Open Sans regular'), url(assets/fonts/openSans/OpenSans-Regular.woff2), url(/assets/fonts/openSans/OpenSans-Regular.ttf);
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-weight: 600;
-  src: local('Open Sans SemiBold'), url(/assets/fonts/openSans/OpenSans-SemiBold.woff2), url(/assets/fonts/openSans/OpenSans-SemiBold.ttf);
+  src: local('Open Sans SemiBold'), url(assets/fonts/openSans/OpenSans-SemiBold.woff2), url(/assets/fonts/openSans/OpenSans-SemiBold.ttf);
 }
 
 :root {
@@ -604,4 +604,5 @@ footer {
     align-items: start;
   }
 }
+
 
