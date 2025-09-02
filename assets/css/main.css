@@ -129,7 +129,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: var(--ff-heading);
+  font-family: 'Montserrat';
   font-weight: var(--fw-bold);
   color: var(--clr-text2);
   line-height: 1.1;
@@ -582,6 +582,7 @@ footer {
     align-items: start;
   }
 }
+
 
 
 
