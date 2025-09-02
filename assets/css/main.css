@@ -238,7 +238,7 @@ header .mainNav {
   width: min(100%, 1800px);
   min-height: 500px;
   margin: 7rem auto 0;
-  background: url(/assets/images/wvhome.png) no-repeat center/cover;
+  background: url(assets/images/wvhome.png) no-repeat center/cover;
 }
 
 /* Main */
@@ -604,3 +604,4 @@ footer {
     align-items: start;
   }
 }
+
